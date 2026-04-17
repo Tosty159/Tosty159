@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jaden or Tiziri(can also be spelled Tixxiri) :>
+- 👋 Hi! I’m Tiziri, you could also call me Jaden :>
 - 👀 I’m interested in Coding in maths, and programming in Rust, C, and C++ :P
 - 🌱 I’m currently working on creating my custom programming language :3
 - 📫 How to reach me jadey6125@proton.me ^w^
